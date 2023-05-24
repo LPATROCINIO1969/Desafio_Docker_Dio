@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Teste PHP</title>
+</head>
+<body>
+<form action="action.php" method="post">
+ <p>Nome: <input type="text" name="name" /></p>
+ <p>Idade: <input type="text" name="age" /></p>
+ <p>Altura (m): <input type="number" name="height" /></p>
+ <p>Peso (kg): <input type="number" name="weight" /></p>
+ <p><input type="submit" /></p>
+</form>
+</body>
+</html>
