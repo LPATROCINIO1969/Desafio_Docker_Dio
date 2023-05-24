@@ -8,6 +8,7 @@ Para esse desafio, desenvolvi um banco de dados de cursos de treinamento(Dio_Mys
 * Instrutores
 * Turmas
 * Matriculas
+
 As tabelas Turmas e Matriculas estão relacionadas por chaves estrangeiras às tabelas cursos, aluno e Instrutores.
 Uma pequena aplicação em PHP, resgata os dados das tabelas do banco de dados e apresenta as listagens de: cursos, alunos, instrutores, turmas e alunos por turma.
 O pacote foi composto, usando Docker Compose, pelas imagens do APACHE, MYSQL, PHP e PHPADMIN.
